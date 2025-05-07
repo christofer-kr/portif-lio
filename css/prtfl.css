@@ -1,0 +1,26 @@
+h1 {
+    color: #590c77;
+    text-align: center;
+    font-family: "Anton", sans-serif;
+}
+
+body {
+    background-color: blueviolet;
+}
+.home{
+    border: black 2px solid;
+    border-radius: 25px;
+    background-image: url(flor-de-hibisco-800x420.webp);
+    background-size: cover;
+}
+.contanto{
+height: 200px;
+width: 150px;
+background-image: url(email-marketing-2942593_640.webp);
+
+}
+.contanto2{
+    background-image: url(ic_call_128_28145.webp);
+    height: 100px;
+  background-repeat: no-repeat;
+}
